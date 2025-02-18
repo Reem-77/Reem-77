@@ -36,7 +36,11 @@
 
 ###
 
-<img align="left" height="133" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e473f1xmwrmc0tt877le7jc31smmnrilsan19a66uxd&ep=v1_gifs_search&rid=200.webp&ct=g"  />
+<h2 align="left">Media:</h2>
+
+###
+
+<img align="left" height="115" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=ecf05e473f1xmwrmc0tt877le7jc31smmnrilsan19a66uxd&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 
 ###
 
