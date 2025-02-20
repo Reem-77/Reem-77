@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Reem Al-Omari I'm fresh graduate of Information Technology (IT)</h2>
+<h2 align="left">Hi 👋! <br>My name is Reem Al-Omari I'm Information Technology (IT)</h2>
 
 ###
 
