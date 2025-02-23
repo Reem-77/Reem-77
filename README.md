@@ -4,14 +4,10 @@
 
 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
   
-       
-    
- 
 
  <!--  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr) -->
 <!--     <a href="https://github.com/OmarrSakr/OmarrSakr/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/OmarrSakr/OmarrSakr?color=2b9348" alt="License Badge"/></a> -->
-
 
 </p>
 <br>
@@ -21,9 +17,9 @@
           
     
 <ul dir="auto">
-  <li>🏫 I am a <code>Computer Science student</code> at Al-Shorouk Academy</li>
-  <li>🔭 I’m currently working as a <code>freelancer</code> in web development.</li>
-  <li>🌱 I’m currently studying <code>Backend Development</code> and <code>CCNA</code>.</li>
+  <li> I am a <code>Graduate of a Bachelor of Information Technology </code> at Jazan University</li>
+  <li> I currently have a<code>membership certificate</code> from the Saudi Council of Engineers.</li>
+  <li> I’m currently studying <code>Backend Development</code> and <code>CCNA</code>.</li>
   <li>📫 How to reach me: <strong><a href="mailto:DevOmarHussein@gmail.com"><code>DevOmarHussein@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>job opportunity</code>. You can check my <a href="https://drive.google.com/file/YOUR_RESUME_LINK" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
