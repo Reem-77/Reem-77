@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reem Al-Omari</h1>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Full Stack Developer | Turning complex ideas into scalable, seamless web experiences</h3>
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto"> IT fresh graduate | Interested in cybersecurity & Network | UI/UX design | IT Support Specialist</h3>
 
 
   
