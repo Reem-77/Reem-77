@@ -8,10 +8,7 @@
     <a href="https://github.com/OmarrSakr/OmarrSakr/stargazers">
         <img src="https://img.shields.io/github/stars/OmarrSakr/OmarrSakr" alt="Stars Badge"/></a>
     <a href="https://github.com/OmarrSakr/OmarrSakr/network/members">
-        <img src="https://img.shields.io/github/forks/OmarrSakr/OmarrSakr" alt="Forks Badge"/></a>
-  <a href="https://github.com/OmarrSakr/OmarrSakr/pulls">
-        <img src="https://img.shields.io/github/issues-pr/OmarrSakr/OmarrSakr?color=orange" alt="Pull Requests Badge"/></a>
-<!--     <a href="https://github.com/OmarrSakr/OmarrSakr/issues">
+       
         <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
  
 
