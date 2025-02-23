@@ -4,10 +4,7 @@
 
   
 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<div align="center">
-    <a href="https://github.com/OmarrSakr/OmarrSakr/stargazers">
-        <img src="https://img.shields.io/github/stars/OmarrSakr/OmarrSakr" alt="Stars Badge"/></a>
-    <a href="https://github.com/OmarrSakr/OmarrSakr/network/members">
+
        
         <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
  
@@ -15,7 +12,7 @@
  <!--  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr) -->
 <!--     <a href="https://github.com/OmarrSakr/OmarrSakr/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/OmarrSakr/OmarrSakr?color=2b9348" alt="License Badge"/></a> -->
-</div>
+
 <br>
 <p align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" 
