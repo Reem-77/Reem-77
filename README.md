@@ -13,8 +13,6 @@
         <img src="https://img.shields.io/github/issues-pr/OmarrSakr/OmarrSakr?color=orange" alt="Pull Requests Badge"/></a>
 <!--     <a href="https://github.com/OmarrSakr/OmarrSakr/issues">
         <img src="https://img.shields.io/github/issues/OmarrSakr/OmarrSakr?color=orange" alt="Issues Badge"/></a> -->
-    <a href="https://github.com/OmarrSakr/OmarrSakr/graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/OmarrSakr/OmarrSakr?color=2b9348" alt="GitHub contributors"/></a>
    <a href="https://x.com/OmarrSaqr" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/twitter/follow/OmarrSaqr?style=social&background=000000" alt="Follow on X" style="max-width: 100%; height: auto;"></a>
 
