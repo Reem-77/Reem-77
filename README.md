@@ -59,19 +59,19 @@
 <p align="center" dir="auto">
     <a href="https://www.oracle.com/java/" title="Java" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
-            alt="Java" style="max-width: 100%;"></a>
+            alt="Java" style="max-width: 200%;"></a>
      <a href="https://www.python.org/" title="Python" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-            alt="Python" style="max-width: 100%;"></a>
+            alt="Python" style="max-width: 200%;"></a>
     <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-            alt="HTML5" style="max-width: 100%;"></a>
+            alt="HTML5" style="max-width: 200%;"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-            alt="JavaScript" style="max-width: 100%;"></a>
+            alt="JavaScript" style="max-width: 200%;"></a>
    <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
-            alt="MySQL" style="max-width: 100%;"></a>
+            alt="MySQL" style="max-width: 200%;"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
         alt="Visual Studio Code" style="max-width: 200%;"></a>
