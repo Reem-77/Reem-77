@@ -56,25 +56,25 @@
 </p>
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠 Languages and Tools</h2><a id="user-content--languages-and-tools" class="anchor" aria-label="Permalink: 🛠 Languages and Tools" href="#-languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <br>
-<p align="center" dir=" 150">
+<p align="center" dir=" auto">
     <a href="https://www.oracle.com/java/" title="Java" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
-            alt="Java" style="max-width: 200%;"></a>
+            alt="Java" style="max-width: 100%;"></a>
      <a href="https://www.python.org/" title="Python" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
-            alt="Python" style="max-width: 200%;"></a>
+            alt="Python" style="max-width: 100%;"></a>
     <a href="https://www.w3.org/TR/html5/" title="HTML5" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-            alt="HTML5" style="max-width: 200%;"></a>
+            alt="HTML5" style="max-width: 100%;"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-            alt="JavaScript" style="max-width: 200%;"></a>
+            alt="JavaScript" style="max-width: 100%;"></a>
    <a href="https://www.mysql.com/" title="MySQL" target="_blank" rel="nofollow">
         <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"
-            alt="MySQL" style="max-width: 200%;"></a>
+            alt="MySQL" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-        alt="Visual Studio Code" style="max-width: 200%;"></a>
+        alt="Visual Studio Code" style="max-width: 100%;"></a>
 </p>
 <div class="markdown-heading" dir="auto">
  <h2>
@@ -83,23 +83,23 @@
 </h2>
 
 <img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarrSakr&theme=monokai" 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reem Al-Omari&theme=monokai" 
   alt="Profile Details" width="100%">
 
 <br>
 
 <p align="center">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmarrSakr&theme=monokai" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reem Al-Omari&theme=monokai" 
     alt="Repos Per Language" width="24%">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmarrSakr&theme=monokai" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Reem Al-Omari&theme=monokai" 
     alt="Most Commit Language" width="24%">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OmarrSakr&theme=monokai" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reem Al-Omaritheme=monokai" 
     alt="Stats" width="24%">
   <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OmarrSakr&theme=monokai&utcOffset=8" 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Reem Al-Omari&theme=monokai&utcOffset=8" 
     alt="Productive Time" width="24%">
 </p>
 <br>
