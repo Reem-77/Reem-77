@@ -46,16 +46,7 @@
         alt="Gmail"
         style="max-width: 100%; height: auto;"></a>
         
-<a href="https://www.behance.net/portfolio/editor?tracking_source=upload=reem2021y@gmail.com" title="Behance" target="_blank">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png"
-        alt="Behance"
-      style="max-width:100%; height: auto;"></a>
-        
-<a href="https://www.behance.com/in/omarrhussein" title="Behance" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/behance-3-logo-png-transparent.png"
-        alt="Behance"
-        data-canonical-src="https://img.shields.io/badge/behance-%230077B5.svg?style=for-the-badge&amp;logo=behance&amp;logoColor=white"
-        style="max-width: 100%;"></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"/>
 
 
 
