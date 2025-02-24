@@ -49,7 +49,7 @@
 <a href="https://www.behance.net/portfolio/editor?tracking_source=upload=DevOmarHussein@gmail.com" title="Gmail" target="_blank">
     <img src="https://github.com/user-attachments/assets/b49a5547-10af-442c-916d-d954868a8d4e"
         alt="Behance"
-        style="max-width: 100%; height: auto;"></a>
+        style="max-width: 100%; ></a>
         
 
 
