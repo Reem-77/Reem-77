@@ -83,7 +83,7 @@
 </h2>
 
 <img 
-  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reem Al-Omari&theme=monokai" 
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reem-77&theme=monokai" 
   alt="Profile Details" width="100%">
 
 <br>
