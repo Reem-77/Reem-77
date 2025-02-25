@@ -18,7 +18,6 @@
  <br>
  <br>
 <ul dir="auto">
- <h4>
    <li> I am a <code>Graduate of a Bachelor of Information Technology </code> at Jazan University</li>
   <li> I currently have a<code>membership certificate</code> from the Saudi Council of Engineers.</li>
   <li> I am currently studying for<code> The Professional Certificate</code> in Security+.</li>
@@ -26,7 +25,6 @@
   <li>🤔 I’m currently open for a new <code>job opportunity</code>. You can check my <a href="https://drive.google.com/file/d/100BwjbQb2KT_FqLmzuS0GNTUaE3r1k2W/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong></code></a></li>
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
   <li>⚡ Fun fact: <code>I love coding and building cool projects</code>!</li>
-   </h4>
 </ul>
 <br>
 
