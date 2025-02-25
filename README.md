@@ -15,7 +15,8 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" target="_blank">
           
-    
+ <br>
+ <br>
 <ul dir="auto">
   <li> I am a <code>Graduate of a Bachelor of Information Technology </code> at Jazan University</li>
   <li> I currently have a<code>membership certificate</code> from the Saudi Council of Engineers.</li>
