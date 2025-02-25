@@ -18,7 +18,7 @@
  <br>
  <br>
 <ul dir="auto">
- <h2> <li> I am a <code>Graduate of a Bachelor of Information Technology </code> at Jazan University</li></h2>
+ <h3> <li> I am a <code>Graduate of a Bachelor of Information Technology </code> at Jazan University</li></h3>
   <li> I currently have a<code>membership certificate</code> from the Saudi Council of Engineers.</li>
   <li> I am currently studying for<code> The Professional Certificate</code> in Security+.</li>
   <li>📫 How to reach me: <strong><a href="mailto:reem2021y@gmail.com"><code>Reem2021y@gmail.com</code></a></strong></li>
