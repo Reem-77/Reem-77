@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reem Al-Omari</h1>
+<h4 align="center">Hi 👋, I'm Reem Al-Omari</h4>
 <div class="markdown-heading" dir="auto"><h2 align="center" class="heading-element" dir="auto"> IT fresh graduate | Interested in cybersecurity & Network | UI/UX design | IT Support Specialist</h2>
 
 
